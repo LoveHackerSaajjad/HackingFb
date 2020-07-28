@@ -97,10 +97,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open ')
+            os.system('xdg-open https://www.facebook.com/groups/Official.Hunter.Force')
     else:
         print "salah sayang!"
-        os.system('xdg-open https://wa.me/+8801866805350')
+        os.system('xdg-open https://www.facebook.com/groups/Official.Hunter.Force)
 
 def login():
 	os.system('clear')
@@ -194,7 +194,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Sajjad"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 

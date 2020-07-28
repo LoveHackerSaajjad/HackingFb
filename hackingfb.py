@@ -54,12 +54,12 @@ logo = """
 \033[0;39m█████═╝░██║██╔██╗██║██║░░██╗░
 \033[0;39m██╔═██╗░██║██║╚████║██║░░╚██╗
 \033[0;39m██║░╚██╗██║██║░╚███║╚██████╔╝
-╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░ Likhon Razz
+╚═╝░░╚═╝╚═╝╚═╝░░╚══╝░╚═════╝░ Sajjad Hossain
 
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKER TEAM•|BLACK VENOM\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/LikhonRazzOfficial\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+8801866805350\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKER TEAM•|HUNTER FORCES \033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://github.com/LoveHackerSaajjad\033[0m \033[0;31m║
+
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -81,10 +81,10 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : +8801866805350\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
-\033[1;93m [¤] \x1b[0;31mTOOLS BY LIKHON RAZZ\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : LIKHON SHEIKH\x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY SAJJAD\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : SAJJAD HOSSAIN\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "BlackVenom"
+CorrectUsername = "HunterForces"
 CorrectPassword = "BlackVenom"
 
 loop = 'true'
@@ -301,7 +301,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●💋════════════════════════◄►════════════════════════💋●"
 
-	jalan('                    \033[1;91m Ibna Mahmud Likhon start cloning Wait...')
+	jalan('                    \033[1;91m Sajjad Hossain start cloning Wait...')
 	print  "  \033[1;36;48m ●💋════════════════════════◄►════════════════════════💋●" 
 
 	def main(arg):

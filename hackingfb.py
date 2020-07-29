@@ -121,7 +121,7 @@ def login():
 			print"\n\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
 			keluar()
 		br._factory.is_html = True
-		br.select_form(nr=0)
+		in login br.select_form(nr=0)
 		br.form['email'] = id
 		br.form['pass'] = pwd
 		br.submit()
@@ -486,4 +486,4 @@ def brute():
             super()
 
 if __name__ == '__main__':
-	login(hackingfb.py)
+	<module>login()
